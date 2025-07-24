@@ -6,6 +6,8 @@
   <p><strong>I'm Elisa Stabilini, a Physics graduate interested in Quantum Computing.</strong></p>
 </div>
 
+<br>
+<br>
 <!-- List remains outside the centered div -->
 <ul style="font-size: smaller">
   <li>🔬 I’m currently working on superconducting qubit control.</li>
@@ -14,5 +16,8 @@
   <li>📚 Besides studying, I greatly enjoy reading literature and non-fiction.</li>
 </ul>
 
+<hr style="border: none; height: 1px; background-color: #ccc; width: 40%;">
 
 
+<h3 align="center">I use in my day to day work</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
