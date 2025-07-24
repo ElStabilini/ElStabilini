@@ -20,6 +20,8 @@
 
 
 <h3 align="center">I use in my day to day work</h3>
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Skill Icons"/>
+  </a>
+</p>
