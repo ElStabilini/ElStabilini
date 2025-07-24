@@ -22,6 +22,6 @@
 <h3 align="center">I use in my day to day work</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,cpp,latex,bash,vscode,vim" alt="Skill Icons"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,vscode,git,github,latex,bash,vim" alt="Skill Icons"/>
   </a>
 </p>
