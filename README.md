@@ -16,9 +16,9 @@
 </ul>
 
 <hr style="border: none; height: 1px; background-color: #ccc; width: 40%;">
+<h3 align="center">I use in my day to day work</h3>
 <br>
 
-<h3 align="center">I use in my day to day work</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,vscode,git,github,latex,bash,vim" alt="Skill Icons"/>
