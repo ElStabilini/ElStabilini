@@ -1,5 +1,6 @@
-## Hi👋, I'm Elisa
+# Hi👋, I'm Elisa
 
+I'm Elisa Stabilini, a Physics graduate interested in Quantum Computing.
 <!--
 **ElStabilini/ElStabilini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
