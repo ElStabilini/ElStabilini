@@ -7,7 +7,6 @@
 </div>
 
 <br>
-<br>
 <!-- List remains outside the centered div -->
 <ul style="font-size: smaller">
   <li>🔬 I’m currently working on superconducting qubit control.</li>
@@ -17,7 +16,7 @@
 </ul>
 
 <hr style="border: none; height: 1px; background-color: #ccc; width: 40%;">
-
+<br>
 
 <h3 align="center">I use in my day to day work</h3>
 <p align="center">
