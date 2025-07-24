@@ -1,4 +1,4 @@
-<h align="center"> Hi👋, I'm Elisa </h>
+<h3 align="center"> Hi👋, I'm Elisa </h>
 
 <center> I'm Elisa Stabilini, a Physics graduate interested in Quantum Computing.</center>
 <!--
