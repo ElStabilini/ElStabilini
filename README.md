@@ -16,7 +16,7 @@
 </ul>
 
 <hr style="border: none; height: 1px; background-color: #ccc; width: 40%;">
-<h3 align="center">I use in my day to day work</h3>
+<h3 align="center">Tools I am familiar with</h3>
 <br>
 
 <p align="center">
